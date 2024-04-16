@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170449574027",
+    "project_id": "krushi-bandhu-seller",
+    "storage_bucket": "krushi-bandhu-seller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170449574027:android:8f31dbcc3d9beadcee9c8e",
+        "android_client_info": {
+          "package_name": "com.example.krushibandhuseller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0hhgLwAdtNJ-rtUe3jsT4W3wqRLbeWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

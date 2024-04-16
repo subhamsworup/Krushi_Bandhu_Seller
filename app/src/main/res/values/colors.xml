@@ -3,4 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="splashcolor">#518420</color>
+    <color name="edit_text_color">#FFD6CF</color>
+    <color name="btn_color">#FF735C</color>
+    <color name="cll">#518420</color>
 </resources>
